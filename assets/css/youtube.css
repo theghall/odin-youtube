@@ -1,0 +1,17 @@
+#main-video {
+  float: left;
+  width: 60%;
+}
+
+.related-videos {
+  float: right
+}
+
+.related-videos p {
+  margin: 0 3px 3px;
+}
+
+img {
+  display: block;
+  margin: 0 3px 3px;
+}
