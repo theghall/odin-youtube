@@ -1,17 +1,61 @@
-#main-video {
+#related-videos {
+  float: left;
+}
+
+#related-videos p {
+  margin: 0 3px 3px;
+}
+
+#related-videos img {
+  display: block;
+  float: left;
+  clear: both;
+  margin: 3px;
+  padding: 0;
+}
+
+#related-videos p {
+  width: 200px;
+  display: inline-block;
+  float: left;
+  word-wrap: normal;
+  word-break: normal;
+}
+
+#page-wrapper {
+  border-top: 1px solid;
+}
+
+#video-wrapper {
   float: left;
   width: 60%;
+  border-right: 1px solid;
 }
 
-.related-videos {
-  float: right
+#main-video {
+  border-bottom: 1px solid;
 }
 
-.related-videos p {
-  margin: 0 3px 3px;
+#channel-info {
+  border-bottom: 1px solid;
 }
 
-img {
-  display: block;
-  margin: 0 3px 3px;
+#publish-info{
+  display: inline-block;
+}
+
+#show-more {
+ text-decoration: none;
+}
+
+#comments-wrapper {
+  border-bottom: 1px solid;
+}
+
+.comment {
+  margin: 1px 0 1px;
+}
+
+.comment p {
+  display: inline-block;
 }
