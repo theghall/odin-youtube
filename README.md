@@ -1,3 +1,3 @@
 ## The Odin Project
 ### HTML/CSS Track
-This is a very basic replica of the YouTube page. Main ideas is to work with divs. 
+This is a very basic replica of the YouTube page. Main ideas is to work with divs. View here: https://theghall.github.io/odin-youtube/
